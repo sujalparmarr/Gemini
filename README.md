@@ -1,2 +1,2 @@
 # Gemini
-Here i post everthing around Gemini.
+Here I'll post everthing I learn about Gemini.
