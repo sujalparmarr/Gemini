@@ -1,2 +1,2 @@
 # Gemini
-Here I'll post everthing I learn about Gemini.
+I’ll be documenting everything I learn about Google Gemini from the fundamentals and ecosystem and real-world use cases.
